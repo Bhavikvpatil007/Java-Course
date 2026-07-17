@@ -6,3 +6,5 @@ public abstract class Machine {
 	}
 	abstract void operate();
 }
+
+
